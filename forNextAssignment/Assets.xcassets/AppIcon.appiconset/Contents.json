@@ -89,6 +89,29 @@
       "idiom" : "ios-marketing",
       "size" : "1024x1024",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "first.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "joven2.1.1.jpg",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "joven2.1.jpg",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "senor1.1.jpg",
+      "unassigned" : true,
+      "scale" : "1x"
     }
   ],
   "info" : {
